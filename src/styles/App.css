@@ -1,0 +1,29 @@
+.App {
+}
+
+.App-logo {
+  
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+   
+  }
+}
+
+.App-header {
+  
+}
+
+.App-link {
+  
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
