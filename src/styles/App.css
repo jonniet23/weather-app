@@ -1,22 +1,22 @@
+.weather-app {
+  margin: 0 20px;
+}
+
 .App {
 }
 
 .App-logo {
-  
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-   
   }
 }
 
 .App-header {
-  
 }
 
 .App-link {
-  
 }
 
 @keyframes App-logo-spin {
