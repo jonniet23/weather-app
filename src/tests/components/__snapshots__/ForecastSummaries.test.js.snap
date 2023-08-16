@@ -18,8 +18,10 @@ exports[`ForecastSummaries renders correctly 1`] = `
         class="forecast-summary__icon"
         data-testid="forecast-icon"
       >
-        <img />
-        800
+        <img
+          alt=""
+          src="https://openweathermap.org/img/wn/01d@2x.png"
+        />
       </div>
       <div
         class="forecast-summary__temperature"
@@ -31,6 +33,11 @@ exports[`ForecastSummaries renders correctly 1`] = `
       >
         Stub description 1
       </div>
+      <button
+        type="button"
+      >
+        More details
+      </button>
     </div>
     <div
       class="forecast-summary"
@@ -45,8 +52,10 @@ exports[`ForecastSummaries renders correctly 1`] = `
         class="forecast-summary__icon"
         data-testid="forecast-icon"
       >
-        <img />
-        602
+        <img
+          alt=""
+          src="https://openweathermap.org/img/wn/13d@2x.png"
+        />
       </div>
       <div
         class="forecast-summary__temperature"
@@ -58,6 +67,11 @@ exports[`ForecastSummaries renders correctly 1`] = `
       >
         Stub description2
       </div>
+      <button
+        type="button"
+      >
+        More details
+      </button>
     </div>
   </div>
 </DocumentFragment>
